@@ -1,0 +1,98 @@
+{
+  "glosario": [
+    {
+      "abreviatura": "valor",
+      "significado": "valor"
+    },
+    {
+      "abreviatura": "valor",
+      "significado": "valor"
+    }
+  ],
+  "clave": "valor",
+  "antecedentes": "valor",
+  "justificacion": "valor",
+  "objetivos": "valor",
+  "requerimientos": [
+    {
+      "descripcion": "valor",
+      "cantidad": "valor"
+    },
+    {
+      "descripcion": "valor",
+      "cantidad": "valor"
+    }
+  ],
+  "garantias": [
+    {
+      "descripcion": "valor"
+    }
+  ],
+  "obligacionesParticipantes": "valor",
+  "idEstudioMercado": {
+    "nombre": "valor",
+    "nombreSistema": "valor",
+    "idAlfresco": "valor",
+    "idParentAlfresco":"valor",
+    "tipo": "valor",
+    "tamanio":"valor",
+    "idCrea": "valor",
+    "fechaCreacion": "valortimestamp",
+    "idModifica": "valor",
+    "fechaModificacion": "valortimestamp"
+  },
+  "idCotizaciones": {
+    "nombre": "valor",
+    "nombreSistema": "valor",
+    "idAlfresco": "valor",
+    "idParentAlfresco":"valor",
+    "tipo": "valor",
+    "tamanio":"valor",
+    "idCrea": "valor",
+    "fechaCreacion": "valortimestamp",
+    "idModifica": "valor",
+    "fechaModificacion": "valortimestamp"
+  },
+  "idDocumentoValidado": {
+    "nombre": "valor",
+    "nombreSistema": "valor",
+    "idAlfresco": "valor",
+    "idParentAlfresco":"valor",
+    "tipo": "valor",
+    "tamanio":"valor",
+    "idCrea": "valor",
+    "fechaCreacion": "valortimestamp",
+    "idModifica": "valor",
+    "fechaModificacion": "valortimestamp"
+  },
+  "techoPresupuestal": "valor",
+  "idPersonaElabora": {
+    "nombre": "valor",
+    "puesto": "valor",
+    "telefono": "telefono",
+    "correo": "valor",
+    "correoInstitucional": "valor"
+  },
+  "fechaElabora": "valor",
+  "idPersonaAutoriza": {
+    "nombre": "valor",
+    "puesto": "valor",
+    "telefono": "telefono",
+    "correo": "valor",
+    "correoInstitucional": "valor"
+  },
+  "fechaAutoriza": "valor",
+  "idAnexoFirmado": {
+    "nombre": "valor",
+    "nombreSistema": "valor",
+    "idAlfresco": "valor",
+    "idParentAlfresco":"valor",
+    "tipo": "valor",
+    "tamanio":"valor",
+    "idCrea": "valor",
+    "fechaCreacion": "valortimestamp",
+    "idModifica": "valor",
+    "fechaModificacion": "valortimestamp"
+  },
+  "idCrea": "iddelusuarioquecrea"
+}
